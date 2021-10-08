@@ -1,5 +1,4 @@
-module github.com/morvencao/kube-mutating-webhook-tutorial
-
+module github.com/aws/multus-eni-sc-controller
 go 1.13
 
 require (
